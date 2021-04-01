@@ -13,7 +13,7 @@
   }
 }
   
-@media (max-width: 425px) {
+@media (max-width: 700px) {
   .place__title {
     margin: 0 0px 32px 0px;
     padding: 0 16px 0 16px;
