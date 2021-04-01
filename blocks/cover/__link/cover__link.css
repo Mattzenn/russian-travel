@@ -20,7 +20,7 @@
     width: 100%;
     opacity: 0.3;
     z-index: -1;
-
+    transition: .2s ease-in-out;
 }
 
 .cover__link:hover::after {

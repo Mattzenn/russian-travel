@@ -24,8 +24,6 @@
 
 @media (max-width: 320px) {
   .intro__list {
-    font-size: 12px;
-    line-height: 18px;
     margin: 0 16px;
   }
 }
