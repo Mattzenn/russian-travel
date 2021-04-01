@@ -1,0 +1,12 @@
+.place__image {
+  width: 100%;
+  grid-row: 2/6;
+  display: block;
+}
+
+@media (max-width: 720px) {
+  .place__image {
+    margin-bottom: 32px;
+    grid-row: auto;
+  }
+}
