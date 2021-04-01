@@ -15,6 +15,6 @@
 
 На странице используются различные технологии: flex, grid, hover эффекты. Верстка является адаптивной для разных экранов.
 
-* [Ссылка на проект](https://mattzenn.github.io/russian-travel/)
+* [Ссылка на проект](https://mattzenn.github.io/russian-travel/index.html)
 
 ------ 
