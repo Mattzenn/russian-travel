@@ -1,6 +1,4 @@
-# Проектная работа: "Путешествие по России".
-
-## Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/).
+# Проект : "Путешествие по России".
 
 ### Ссылка на сайт: https://mattzenn.github.io/russian-travel/index.html
 
